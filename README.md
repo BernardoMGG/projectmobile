@@ -3,8 +3,8 @@
 
 ### 1. Reserva de Espaço Esportivo
 **Como** morador,  
-**quero** conseguir reservar uma quadra,  
-**para** garantir meu horário de lazer sem conflitos com outros vizinhos.
+**Quero** conseguir reservar uma quadra,  
+**Para** garantir meu horário de lazer sem conflitos com outros vizinhos.
 
 **Critérios de Aceitação:**
 * **Cenário: Realizar reserva com sucesso**
@@ -19,8 +19,8 @@
 
 ### 2. Validação de Conflitos e Disponibilidade
 **Como** morador,  
-**quero** visualizar apenas horários disponíveis,  
-**para** não tentar reservar um espaço que já está sendo utilizado por outro condômino.
+**Quero** visualizar apenas horários disponíveis,  
+**Para** não tentar reservar um espaço que já está sendo utilizado por outro condômino.
 
 **Critérios de Aceitação:**
 * **Cenário: Tentar reservar horário já ocupado**
@@ -34,8 +34,8 @@
 
 ### 3. Gestão de Desistência e Cancelamento
 **Como** morador,  
-**quero** conseguir cancelar uma reserva antecipadamente,  
-**para** liberar o espaço para outros moradores caso eu não possa comparecer.
+**Quero** conseguir cancelar uma reserva antecipadamente,  
+**Para** liberar o espaço para outros moradores caso eu não possa comparecer.
 
 **Critérios de Aceitação:**
 * **Cenário: Cancelamento dentro do prazo regulamentar**
@@ -49,8 +49,8 @@
 
 ### 4. Regras de Uso e Rotatividade
 **Como** morador,  
-**quero** que o sistema respeite o tempo limite de cada tipo de quadra,  
-**para** que a divisão de tempo entre os condôminos seja justa e organizada.
+**Quero** que o sistema respeite o tempo limite de cada tipo de quadra,  
+**Para** que a divisão de tempo entre os condôminos seja justa e organizada.
 
 **Critérios de Aceitação:**
 * **Cenário: Verificação de tempo máximo por categoria**
@@ -63,8 +63,8 @@
 
 ### 5. Restrição por Inadimplência
 **Como** morador,  
-**quero** ter acesso ao sistema de reservas apenas se estiver em dia com as taxas condominiais,  
-**para** cumprir com as normas do regimento interno do condomínio.
+**Quero** ter acesso ao sistema de reservas apenas se estiver em dia com as taxas condominiais,  
+**Para** cumprir com as normas do regimento interno do condomínio.
 
 **Critérios de Aceitação:**
 * **Cenário: Bloqueio de acesso por pendência financeira**
